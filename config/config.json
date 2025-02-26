@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Jana@1130",
+    "database": "mobile_pos_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "Jana@1130",
+    "database": "mobile_pos_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "Jana@1130",
+    "database": "mobile_pos_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
