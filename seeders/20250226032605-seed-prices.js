@@ -40,6 +40,18 @@ module.exports = {
         created_at: new Date(),
         updated_at: new Date(),
       },
+      {
+        id: 4,
+        product_id: 1, // T-Shirt
+        Costprice: 650,
+        Sellingprice: 950,
+        size_id: 4, // Large
+        color_id: 6, // Black
+        barcode_id: 4,
+        quantity: 30,
+        created_at: new Date(),
+        updated_at: new Date(),
+      },
     ]);
   },
 
